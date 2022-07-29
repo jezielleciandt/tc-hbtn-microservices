@@ -1,0 +1,4 @@
+Microsserviços -> uma abordagem de arquitetura de software para criação de aplicações distribuídas e levemente acopladas. Onde cada serviço terá sua responsabilidade e seu banco de dados distintos dos demais serviços. 
+Visão geral-> Cada função é denominada um serviço e pode ser criada e implantada de maneira independente, utilizando vários bancos de dados. 
+Benefícios -> alta escalabilidade e maior facilidade de manutenção; maior segurança, pois se um serviço apresentar problema não vai prejudicar as demais funcionalidades; maior flexibilidade e poder de ajuste frente as eventuais mudanças.
+Tipos de comunicação ->Comunicação por HTTP; Comunicação por Mensagens e Comunicação Orientada a Evento.
